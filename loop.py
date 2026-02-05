@@ -96,10 +96,6 @@ addSquares(60) """
             t.left(5)
         star(length)
         length += 5
-addStars(60)   """        
-
-
-
-
-
+addStars(60)   """      
+  
 turtle.done()
