@@ -26,12 +26,12 @@ square(200) """
     t.forward(100)
 rectangle() """
 
-def triangle(x):
+""" def triangle(x):
     t.forward(x)
     t.left(120)
     t.forward(x)
     t.left(120)
     t.forward(x)
-triangle(90)
+triangle(90) """
 
 turtle.done()
